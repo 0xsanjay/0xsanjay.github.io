@@ -1,2 +1,4 @@
-# 0xsanjay.github.io
-Free hosting :)
+from github import hosting
+for freehosting in github:
+    use(freehosting)
+    print("Thankyou github!")
